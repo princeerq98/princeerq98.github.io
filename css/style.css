@@ -204,10 +204,11 @@ section{
 .header .cart-items-container{
     position: absolute;
     top:100%; right: -100%;
-    height: calc(100vh - 9.5rem);
+    height: calc(84vh - 9.5rem);
     width: 35rem;
-    background: #fff;
-    padding:0 1.5rem;
+    background:whitesmoke;
+    padding:0 1.0rem;
+    border-radius: 10px;
 }
 
 .header .cart-items-container.active{
