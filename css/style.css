@@ -64,6 +64,7 @@ section{
     width:auto;
     background-image: linear-gradient(to bottom right, red, yellow);
     font-family: 'Poppins', sans-serif;
+    opacity: 35%;
 
 
 }
@@ -81,6 +82,7 @@ section{
     width:auto;
     background-image: linear-gradient(to bottom right, #c0c0aa, #1cefff);
     font-family: 'Poppins', sans-serif;
+    opacity: 35%;
 }
 
 .navbar {
@@ -477,7 +479,7 @@ section{
 }
 
 .review {
-    background: #3d3635;
+    background:#332421;
 }
 
 .review .box-container{
@@ -574,7 +576,7 @@ section{
 }
 
 .footer{
-    background:#3d3635;
+    background:#332421;
     text-align: center;
 }
 .footer .share{
@@ -595,7 +597,7 @@ section{
 
 
 .footer .share a:hover{
-    background-color: var(--main-color);
+    background-color:#d3ad7f;
 }
 
 .footer .credit{
